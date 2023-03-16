@@ -1,4 +1,9 @@
+
+<p align="center"><img src="https://avatars.githubusercontent.com/u/28188300?s=400&u=4e43962dd4b420ac4fda52be86c7f47e31fb420b&v=4" width="100"/></p>
+<p align="center">
+
 ### Hi there 👋
+
 
 <!--
 **Przemekkkth/Przemekkkth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
