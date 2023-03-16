@@ -4,6 +4,7 @@
 
 <p align="center">
 <a href="https://przemekkkth.github.io/"><img src="https://img.shields.io/badge/GithubPage-gray?logo=github&logoColor=white" alt="Github Page Badge"></a>
+<a href="https://www.youtube.com/channel/UCzy2qJhhrGvyg9PGP12B0sQ/"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="YouTube Badge"></a>
 </p>
 
 ### Hi there 👋
