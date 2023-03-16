@@ -7,6 +7,8 @@
 <a href="https://www.youtube.com/channel/UCzy2qJhhrGvyg9PGP12B0sQ/"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="YouTube Badge"></a>
 </p>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=przemekkkth&style=flat-square&color=blue" alt=""></p>
+
 ### Hi there 👋
 
 
