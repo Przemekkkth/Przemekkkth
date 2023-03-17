@@ -3,6 +3,7 @@
 <p align="center">
 
 <p align="center">
+<a href="https://www.linkedin.com/in/przemys%C5%82aw-b%C4%85daruk-85b49a269/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://przemekkkth.github.io/"><img src="https://img.shields.io/badge/GithubPage-gray?logo=github&logoColor=white" alt="Github Page Badge"></a>
 <a href="https://www.youtube.com/channel/UCzy2qJhhrGvyg9PGP12B0sQ/"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" alt="YouTube Badge"></a>
 </p>
@@ -11,7 +12,6 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### Hi there 👋
 
 
 <!--
